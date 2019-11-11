@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/nattoAS/bc-generate/static/js/main.ba8c69c9.chunk.js",
+    "main.js.map": "/nattoAS/bc-generate/static/js/main.ba8c69c9.chunk.js.map",
+    "runtime-main.js": "/nattoAS/bc-generate/static/js/runtime-main.6e11689b.js",
+    "runtime-main.js.map": "/nattoAS/bc-generate/static/js/runtime-main.6e11689b.js.map",
+    "static/js/2.b2aa2bb2.chunk.js": "/nattoAS/bc-generate/static/js/2.b2aa2bb2.chunk.js",
+    "static/js/2.b2aa2bb2.chunk.js.map": "/nattoAS/bc-generate/static/js/2.b2aa2bb2.chunk.js.map",
+    "index.html": "/nattoAS/bc-generate/index.html",
+    "precache-manifest.ee898029727039317380f37db0b610d7.js": "/nattoAS/bc-generate/precache-manifest.ee898029727039317380f37db0b610d7.js",
+    "service-worker.js": "/nattoAS/bc-generate/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e11689b.js",
+    "static/js/2.b2aa2bb2.chunk.js",
+    "static/js/main.ba8c69c9.chunk.js"
+  ]
+}
