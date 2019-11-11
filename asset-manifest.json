@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/nattoAS/bc-generate/static/js/main.9131bff3.chunk.js",
-    "main.js.map": "/nattoAS/bc-generate/static/js/main.9131bff3.chunk.js.map",
-    "runtime-main.js": "/nattoAS/bc-generate/static/js/runtime-main.6e11689b.js",
-    "runtime-main.js.map": "/nattoAS/bc-generate/static/js/runtime-main.6e11689b.js.map",
-    "static/js/2.b2aa2bb2.chunk.js": "/nattoAS/bc-generate/static/js/2.b2aa2bb2.chunk.js",
-    "static/js/2.b2aa2bb2.chunk.js.map": "/nattoAS/bc-generate/static/js/2.b2aa2bb2.chunk.js.map",
-    "index.html": "/nattoAS/bc-generate/index.html",
-    "precache-manifest.a798cad88a2560483f8ac0e70fdd2013.js": "/nattoAS/bc-generate/precache-manifest.a798cad88a2560483f8ac0e70fdd2013.js",
-    "service-worker.js": "/nattoAS/bc-generate/service-worker.js"
+    "main.js": "/bc-generate/static/js/main.2aa70948.chunk.js",
+    "main.js.map": "/bc-generate/static/js/main.2aa70948.chunk.js.map",
+    "runtime-main.js": "/bc-generate/static/js/runtime-main.de86ac01.js",
+    "runtime-main.js.map": "/bc-generate/static/js/runtime-main.de86ac01.js.map",
+    "static/js/2.b2aa2bb2.chunk.js": "/bc-generate/static/js/2.b2aa2bb2.chunk.js",
+    "static/js/2.b2aa2bb2.chunk.js.map": "/bc-generate/static/js/2.b2aa2bb2.chunk.js.map",
+    "index.html": "/bc-generate/index.html",
+    "precache-manifest.0c09d560d9b602ca41383306a1e73995.js": "/bc-generate/precache-manifest.0c09d560d9b602ca41383306a1e73995.js",
+    "service-worker.js": "/bc-generate/service-worker.js"
   },
   "entrypoints": [
-    "static/js/runtime-main.6e11689b.js",
+    "static/js/runtime-main.de86ac01.js",
     "static/js/2.b2aa2bb2.chunk.js",
-    "static/js/main.9131bff3.chunk.js"
+    "static/js/main.2aa70948.chunk.js"
   ]
 }
