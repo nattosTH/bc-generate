@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/nattoAS/bc-generate/precache-manifest.ee898029727039317380f37db0b610d7.js"
+  "/nattoAS/bc-generate/precache-manifest.a798cad88a2560483f8ac0e70fdd2013.js"
 );
 
 self.addEventListener('message', (event) => {
